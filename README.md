@@ -92,18 +92,8 @@ Beserta tautan sosial media:
 ### Kloning Repositori
 
 ```
-git clone https://github.com/ldclabs/anda
+git clone https://github.com/ldclabs/anda](https://github.com/anandafahmuzna/TA_JUDUL3
 ```
-
-### Buka File Utama
-
-Buka file berikut di browser:
-
-```
-index.html
-```
-
----
 
 ## Kontributor
 
