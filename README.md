@@ -1,5 +1,5 @@
 # TUGAS AKHIR JUDUL 3- Praktikum Pemrograman Web
-Proyek ini adalah implementasi dari Tugas Akhir 3.4 Praktikum Pemrograman Web, berupa pembuatan Landing Page Responsif untuk perusahaan teknologi, yang diberi nama TechNova.
+Proyek ini adalah implementasi dari Tugas Akhir 3.4 Praktikum Pemrograman Web, berupa pembuatan Landing Page Responsif untuk perusahaan teknologi, yang diberi nama J’Treats.
 
 # 💻 Teknologi & Desain
 Framework CSS: Tailwind CSS (Dipilih untuk fleksibilitas dan desain modern).
@@ -9,57 +9,40 @@ Aksen Visual: Konten disajikan dengan layout yang jelas dan penggunaan ikon untu
 # Tampilan Website
 ## 1. Beranda
 
-<img width="900" src="https://github.com/user-attachments/assets/7f4a88a9-4d5f-4993-bad5-318c6eec74c0">
+<img width="1890" height="921" alt="image" src="https://github.com/user-attachments/assets/add09e25-b102-467d-a84f-29256d3334b2" />
 
 **Tujuan:** Menjadi halaman utama yang menarik perhatian pengunjung.
 
 **Konten Beranda:**
 
 * Headline: "Solusi Teknologi Profesional"
-* Sub-headline: "TechNova menghadirkan teknologi modern, aman dan efisien untuk kebutuhan digital masa kini."
+* Sub-headline: "J’Treats menghadirkan teknologi modern, aman dan efisien untuk kebutuhan digital masa kini."
 * Tombol CTA "Hubungi Kami" yang mengarahkan ke bagian Kontak
 
 ---
 
 ## 2. Fitur
 
-<img width="900" src="https://github.com/user-attachments/assets/c2221f7d-6fb1-4e22-92b8-7d86f77c6b5c">
+<img width="1890" height="917" alt="image" src="https://github.com/user-attachments/assets/dff5131f-c95e-4a0d-b477-d0e6c4c09c76" />
 
-**Judul:** Layanan Unggulan Kami
+**Judul:** Fitur Utama Kami
 
-Bagian ini berisi tiga fitur utama perusahaan:
-
-1. **Integrasi AI**
-   Sistem berbasis kecerdasan buatan untuk meningkatkan akurasi dan kecepatan pekerjaan.
-
-2. **Layanan Cloud**
-   Penyimpanan cloud aman dan stabil untuk efisiensi data perusahaan Anda.
-
-3. **Keamanan Sistem**
-   Perlindungan data tingkat tinggi dengan sistem enkripsi modern.
 
 ---
 
 ## 3. Tentang
 
-<img width="900" src="https://github.com/user-attachments/assets/c7fd495b-db87-433a-b777-02321690c196">
+<img width="1889" height="918" alt="image" src="https://github.com/user-attachments/assets/5ce69067-0d36-4a26-bb96-72220eb6cafa" />
 
 **Judul:** Tentang Kami
-
-**Deskripsi:**
-TechNova adalah perusahaan teknologi modern yang berfokus pada pengembangan sistem berbasis kecerdasan buatan, layanan cloud, dan keamanan digital tingkat tinggi.
-
-**Keunggulan Perusahaan:**
-
-* Berpengalaman lebih dari 5 tahun dalam pengembangan teknologi
-* Tim profesional bersertifikat
-* Berorientasi pada inovasi dan keamanan data
 
 ---
 
 ## 4. Kontak
 
-<img width="900" src="https://github.com/user-attachments/assets/e2dd4e36-72be-4402-ac31-ae9f470b957f">
+<img width="1899" height="927" alt="image" src="https://github.com/user-attachments/assets/8ef169a8-7735-4f38-96e4-23777cc9634f" />
+<img width="1897" height="287" alt="image" src="https://github.com/user-attachments/assets/dfa40740-7eac-4259-a1fa-5de648b549ab" />
+
 
 **Judul:** Hubungi Kami
 
@@ -76,8 +59,8 @@ Bagian ini berisi formulir kontak dengan komponen:
 
 Footer berisi copyright:
 
-* © 2024 TechNova • Layanan Digital Modern
-* © 2024 TechNova • Semua Hak Dilindungi
+* © 2024 J’Treats • Layanan Digital Modern
+* © 2024 J’Treats • Semua Hak Dilindungi
 
 Beserta tautan sosial media:
 
